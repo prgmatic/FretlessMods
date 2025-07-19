@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fretless_AutoRun", "Fretless_AutoRun\Fretless_AutoRun.csproj", "{E31931F1-8C39-47E9-8BB2-F6FB8AFFBECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fretless_RemoveArtificialLoadTime", "Fretless_RemoveArtificialLoadTime\Fretless_RemoveArtificialLoadTime.csproj", "{8BF42694-BFA7-4C04-BBF2-C691626A732F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fretless_EnableDebugMenu", "Fretless_EnableDebugMenu\Fretless_EnableDebugMenu.csproj", "{6BAE0413-538D-4A4D-B2B3-6F1E73EB59E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31931F1-8C39-47E9-8BB2-F6FB8AFFBECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31931F1-8C39-47E9-8BB2-F6FB8AFFBECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31931F1-8C39-47E9-8BB2-F6FB8AFFBECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31931F1-8C39-47E9-8BB2-F6FB8AFFBECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF42694-BFA7-4C04-BBF2-C691626A732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF42694-BFA7-4C04-BBF2-C691626A732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF42694-BFA7-4C04-BBF2-C691626A732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF42694-BFA7-4C04-BBF2-C691626A732F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAE0413-538D-4A4D-B2B3-6F1E73EB59E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAE0413-538D-4A4D-B2B3-6F1E73EB59E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAE0413-538D-4A4D-B2B3-6F1E73EB59E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAE0413-538D-4A4D-B2B3-6F1E73EB59E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
