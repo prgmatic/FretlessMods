@@ -1,7 +1,7 @@
 # Collection of Fretless Mods
 - **Auto Run**: Run by default, walk when holding run button.
-- **Remove Artifical Load Time**: Fretless has an artificial 4 seconds load time, this more removes that.
-- **Enable Debug Menu**: When opening the pause menu, there is a new option to enable the debug menu.
+- **Remove Artifical Load Time**: Fretless has an artificial 4 seconds load time, this mod removes that.
+- **Enable Debug Menu**: When opening the pause menu, there is a new option to enable the debug menu. (No controller support)
 
 ## Installation
 ### Install BepInEx
