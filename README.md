@@ -3,9 +3,6 @@
 - **Remove Artifical Load Time**: Fretless has an artificial 4 seconds load time, this mod removes that.
 - **Enable Debug Menu**: When opening the pause menu, there is a new option to enable the debug menu. (No controller support)
 
-# Temp Fixes
-- **Dropdee Soft Lock Fix**: Fixes issue where you can soft lock on Dropdee Beach when loading a save there. Remove when official fix comes out.
-
 ## Installation
 ### Install BepInEx
 - Go to the official [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases)
